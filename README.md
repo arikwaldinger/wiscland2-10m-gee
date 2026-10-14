@@ -1,6 +1,6 @@
 # WISCLAND 2.0: Statewide 10m Forest Species Classification in Google Earth Engine
 
-![WISCLAND II High-Resolution Forest Update Map](assets/WISCLANDII_ForestUpdate.png)
+![WISCLAND II High-Resolution Forest Update Map](WISCLANDII_10m_Forest-Genus.png)
 
 ## Overview
 This repository contains the complete 5-tier hierarchical Random Forest classification pipeline developed to scale Wisconsin's land cover classification from 30-meter (Landsat) to **10-meter spatial resolution (Sentinel-2/Sentinel-1)** across 35 million acres (~1.4 billion pixels).
